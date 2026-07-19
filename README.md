@@ -50,7 +50,6 @@
 ### 📊 GitHub Stats & Graphs
 
 <img src="https://github-stats-extended.vercel.app/api?username=Mughal055&show_icons=true&theme=radical&hide_border=true&bg_color=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Stats" height="185"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Mughal055&layout=compact&theme=radical&hide_border=true&bg_color=170e28" alt="Top Languages" height="185"/>
 
 <br/><br/>
 
