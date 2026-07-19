@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ✨ Banner ✨ -->
-<img src="./memoona-banner.svg" alt="Memoona Anwar — App Developer" width="100%"/>
+<img src="./memoona-bannerr.svg" alt="Memoona Anwar — App Developer" width="100%"/>
 
 </div>
 <br/>
