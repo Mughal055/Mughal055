@@ -1,0 +1,52 @@
+<svg width="1000" height="220" viewBox="0 0 1000 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1033">
+        <animate attributeName="stop-color" values="#1e1033;#2b1550;#1e1033" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#3a1c63">
+        <animate attributeName="stop-color" values="#3a1c63;#5b2a8a;#3a1c63" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#7b2ff7">
+        <animate attributeName="stop-color" values="#7b2ff7;#c026d3;#7b2ff7" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff7eb6"/>
+      <stop offset="50%" stop-color="#e879f9"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="220" rx="18" fill="url(#bgGrad)"/>
+
+  <!-- soft floating circles for depth -->
+  <circle cx="80" cy="40" r="60" fill="#ffffff" opacity="0.04">
+    <animate attributeName="cy" values="40;60;40" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="920" cy="180" r="90" fill="#ffffff" opacity="0.05">
+    <animate attributeName="cy" values="180;155;180" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="50" r="35" fill="#ff7eb6" opacity="0.15">
+    <animate attributeName="r" values="35;45;35" dur="5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- code brackets motif -->
+  <text x="60" y="145" font-family="Consolas, Menlo, monospace" font-size="70" fill="#ffffff" opacity="0.08" font-weight="bold">&lt;/&gt;</text>
+
+  <!-- name -->
+  <text x="120" y="100" font-family="Verdana, Segoe UI, sans-serif" font-size="46" font-weight="bold" fill="url(#textGrad)">
+    Memoona Anwar
+  </text>
+
+  <!-- tagline -->
+  <text x="120" y="140" font-family="Verdana, Segoe UI, sans-serif" font-size="20" fill="#e5d9ff">
+    App &amp; Front-End Developer &#8226; React Native &#183; Firebase &#183; JavaScript
+  </text>
+
+  <!-- typing cursor line -->
+  <text x="120" y="172" font-family="Consolas, Menlo, monospace" font-size="16" fill="#ff9ecb">
+    building clean, responsive experiences one commit at a time
+    <animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/>
+  </text>
+</svg>

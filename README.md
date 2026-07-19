@@ -1,108 +1,85 @@
 <div align="center">
 
-# 👋 Hi, I'm Mughal Queen
-
-### 📱 React Native Developer | JavaScript | Firebase
-
-💙 Passionate about building modern cross-platform mobile applications with React Native.
+<!-- ✨ Banner ✨ -->
+<img src="./memoona-banner.svg" alt="Memoona Anwar — App Developer" width="100%"/>
 
 </div>
 
 <br/>
 
-<table align="center">
+<table align="center" border="0">
 <tr>
+<td width="38%" align="center" valign="middle">
 
-<td width="40%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mughal055&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-<td width="60%">
-
-## 👩‍💻 About Me
-
-- 🎓 BS Information Technology Student
-- 📱 React Native Developer
-- 🔥 Firebase Authentication & Firestore
-- ⚡ JavaScript (ES6+)
-- 🎨 Responsive UI Design
-- 🌱 Currently learning advanced React Native
-- 💼 Looking for React Native opportunities
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./memoona-lanyard.svg" alt="Memoona Anwar ID badge" width="300"/>
 
 </td>
+<td width="62%" valign="middle">
 
+### 💻 My Projects
+
+| 🚀 Project | 🛠️ Tech | 
+|:---|:---:|
+| [🥗 Nutrition Tracker App](https://github.com/Mughal055) | `React Native` `Firebase` |
+| [🌊 TideTidy App](https://github.com/Mughal055) | `React Native` |
+| [🗑️ DontDump App](https://github.com/Mughal055) | `React Native` |
+
+<br/>
+
+> 💜 *"I don't just build apps — I craft experiences."*
+
+</td>
 </tr>
 </table>
 
----
-
-# 🚀 My Projects
-
-| 📱 Project | 💻 Technology |
-|------------|--------------|
-| 🥗 Nutrition Tracker | React Native • Firebase |
-| 🌊 TideTidy | React Native |
-| 🌐 Portfolio Website | HTML • CSS • JavaScript |
-| 📱 Mobile UI Projects | React Native |
-
----
-
-# 🛠 Tech Stack
-
-### Mobile Development
-
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Mughal055&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mughal055&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mughal055&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Mughal055&theme=tokyo-night)
-
----
-
-# 🐍 Contribution Snake
-
-![](https://raw.githubusercontent.com/Mughal055/Mughal055/output/github-contribution-grid-snake.svg)
-
----
-
-# 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-Mughal055-black?style=for-the-badge&logo=github)](https://github.com/Mughal055)
-
-<!-- Replace this with your actual LinkedIn profile -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)
-
-<!-- Replace with your email -->
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:your@email.com)
-
----
+<br/>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🧰 Tech Stack
 
-*"Code. Learn. Build. Repeat."* 🚀
+![HTML5](https://img.shields.io/badge/HTML5-1e1033?style=for-the-badge&logo=html5&logoColor=ff7eb6)
+![CSS3](https://img.shields.io/badge/CSS3-1e1033?style=for-the-badge&logo=css3&logoColor=e879f9)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1033?style=for-the-badge&logo=javascript&logoColor=ffd166)
+![React Native](https://img.shields.io/badge/React_Native-1e1033?style=for-the-badge&logo=react&logoColor=61dafb)
+![Firebase](https://img.shields.io/badge/Firebase-1e1033?style=for-the-badge&logo=firebase&logoColor=ffca28)
+![Redux](https://img.shields.io/badge/Redux-1e1033?style=for-the-badge&logo=redux&logoColor=764abc)
+
+<br/><br/>
+
+### 📊 GitHub Stats & Graphs
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mughal055&show_icons=true&theme=radical&hide_border=true&bg_color=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Stats" height="185"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mughal055&layout=compact&theme=radical&hide_border=true&bg_color=170e28" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Mughal055&theme=radical&hide_border=true&background=170e28&ring=ff7eb6&fire=e879f9&currStreakLabel=c084fc" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- 📈 Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mughal055&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💜" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<!-- 🏆 Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Mughal055&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" width="95%"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:mughalqueen055@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Mughal055"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Mughal055&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
+
+*💜 Always learning, always building.*
 
 </div>

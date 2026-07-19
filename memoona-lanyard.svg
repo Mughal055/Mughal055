@@ -1,0 +1,50 @@
+<svg width="330" height="440" viewBox="0 0 330 440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2b1550"/>
+      <stop offset="100%" stop-color="#7b2ff7"/>
+    </linearGradient>
+    <linearGradient id="strapGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#c026d3"/>
+      <stop offset="100%" stop-color="#7b2ff7"/>
+    </linearGradient>
+  </defs>
+
+  <g>
+    <animateTransform attributeName="transform" type="rotate"
+      values="3 165 40; -3 165 40; 3 165 40" dur="4s" repeatCount="indefinite"/>
+
+    <!-- lanyard strap -->
+    <rect x="150" y="0" width="30" height="130" fill="url(#strapGrad)"/>
+    <circle cx="165" cy="15" r="8" fill="#1e1033"/>
+
+    <!-- clip -->
+    <rect x="150" y="120" width="30" height="20" rx="4" fill="#c4c4c4"/>
+    <circle cx="165" cy="150" r="10" fill="#c4c4c4"/>
+
+    <!-- card -->
+    <g transform="translate(15,150)">
+      <rect x="0" y="0" width="300" height="270" rx="20" fill="url(#cardGrad)" stroke="#ff7eb6" stroke-width="2"/>
+
+      <!-- header strip -->
+      <rect x="0" y="0" width="300" height="55" rx="20" fill="#1e1033"/>
+      <rect x="0" y="35" width="300" height="20" fill="#1e1033"/>
+      <text x="150" y="34" text-anchor="middle" font-family="Verdana, Segoe UI, sans-serif" font-size="15" font-weight="bold" fill="#ff9ecb" letter-spacing="2">DEVELOPER ID</text>
+
+      <!-- avatar circle -->
+      <circle cx="150" cy="120" r="45" fill="#ffffff" opacity="0.12"/>
+      <circle cx="150" cy="120" r="45" fill="none" stroke="#e879f9" stroke-width="2.5"/>
+      <text x="150" y="133" text-anchor="middle" font-family="Verdana, Segoe UI, sans-serif" font-size="34" font-weight="bold" fill="#ffffff">MA</text>
+
+      <!-- name -->
+      <text x="150" y="192" text-anchor="middle" font-family="Verdana, Segoe UI, sans-serif" font-size="20" font-weight="bold" fill="#ffffff">Memoona Anwar</text>
+      <text x="150" y="213" text-anchor="middle" font-family="Verdana, Segoe UI, sans-serif" font-size="13" fill="#e5d9ff">App &amp; Front-End Developer</text>
+
+      <!-- divider -->
+      <line x1="30" y1="228" x2="270" y2="228" stroke="#ffffff" stroke-opacity="0.15"/>
+
+      <!-- footer -->
+      <text x="150" y="250" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="12" fill="#ff9ecb">github.com/Mughal055</text>
+    </g>
+  </g>
+</svg>
