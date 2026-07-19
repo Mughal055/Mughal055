@@ -4,7 +4,6 @@
 <img src="./memoona-banner.svg" alt="Memoona Anwar — App Developer" width="100%"/>
 
 </div>
-
 <br/>
 
 <table align="center" border="0">
@@ -19,7 +18,7 @@
 
 ### 💻 My Projects
 
-| 🚀 Project | 🛠️ Tech | 
+| 🚀 Project | 🛠️ Tech |
 |:---|:---:|
 | [🥗 Nutrition Tracker App](https://github.com/Mughal055) | `React Native` `Firebase` |
 | [🌊 TideTidy App](https://github.com/Mughal055) | `React Native` |
@@ -63,30 +62,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mughal055&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💜" alt="Contribution graph" width="95%"/>
 
 <br/><br/>
-
-### 📫 Let's Connect
-
-<a href="mailto:mughalqueen055@gmail.com"><img src="https://img.shields.io/badge/Email-ff7eb6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/Mughal055"><img src="https://img.shields.io/badge/GitHub-8b5cf6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Mughal055&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-
-<br/><br/>
-
-*💜 Always learning, always building.*
-
-</div>
-<br/><br/>
-
-<!-- 📈 Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mughal055&bg_color=170e28&color=ff7eb6&line=8b5cf6&point=e879f9&area=true&area_color=8b5cf6&hide_border=true&custom_title=Contribution%20Graph%20💜" alt="Contribution graph" width="95%"/>
-
-<br/><br/>
-
-
-
 
 ### 📫 Let's Connect
 
