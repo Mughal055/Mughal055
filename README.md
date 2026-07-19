@@ -11,7 +11,7 @@
 <td width="38%" align="center" valign="middle">
 
 <!-- 🪪 Swinging Lanyard ID Card -->
-<img src="./memoona-lanyard.svg" alt="Memoona Anwar ID badge" width="300"/>
+<img src="./memoona-lanyardd.svg" alt="Memoona Anwar ID badge" width="300"/>
 
 </td>
 <td width="62%" valign="middle">
