@@ -85,10 +85,8 @@
 
 <br/><br/>
 
-<!-- 🏆 Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Mughal055&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" width="95%"/>
 
-<br/><br/>
+
 
 ### 📫 Let's Connect
 
